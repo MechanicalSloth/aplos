@@ -21,4 +21,4 @@ $prompt_dir'\
 '$(prompt_git)'\
 '$prompt_time'\
 '$prompt_exit_code
-❯ %{$reset_color%}'
+> %{$reset_color%}'
